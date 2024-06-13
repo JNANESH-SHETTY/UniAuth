@@ -33,13 +33,6 @@
     - add Delete
     - add Edit
     - add a text-auto-fill for correctly mapping icons to service
-
-
-
-
-
-
-
   
 # Data
     - type
